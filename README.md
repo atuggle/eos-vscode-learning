@@ -15,3 +15,11 @@ Basic Repo for learning and creating a boilerplate for EOS smart contract develo
 
 ## Feel free to follow the notes in the README.md [here:](https://github.com/TovarishFin/eos-vscode-smart-contract-boilerplate)
  * How to Compile, Deploy, & Interact with EOS smart contracts
+
+## If you want to use googletest framework for unit testing you need to do the following:
+ * clone [git@github.com:atuggle/googletest.git](git@github.com:atuggle/googletest.git)
+ * cd into the googletest folder:
+    * cmake CMakeLists.txt
+    * sudo make install
+
+    
