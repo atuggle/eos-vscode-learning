@@ -5,6 +5,7 @@ Basic Repo for learning and creating a boilerplate for EOS smart contract develo
 
 ## NOTES:
 * This was created using my Mac, so it is specific to VSCode on a mac
+* Notice the .vscode folder has been committed specifically for reference on configuring VS Code
 * I installed nodeos, keosd, and cleos following the above tutorial
 * I used `brew tap eosio/eosio.cdt` & `brew install eosio.cdt` to install the cdt
 * I created the below symlinks [Thanks to this guy figuring them out for me](https://github.com/TovarishFin/eos-vscode-smart-contract-boilerplate):
